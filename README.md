@@ -20,7 +20,7 @@
 
 - I am actively looking for new projects and seeking employment!
 
-- Connect with me at contact@wongstephenk.com
+- Connect with me at <a href="mailto:contact@wongstephenk.com">contact@wongstephenk.com</a>
 
 ---
 
@@ -41,7 +41,7 @@
 
 ### Projects
 
-<div style="max-width:450px; background-color: red">
+<div>
 
 <div width="100%">
    <h3>Jupiter Deals</h3>
