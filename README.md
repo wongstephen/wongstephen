@@ -41,7 +41,7 @@
 
 ### Projects
 
-<div width="400px">
+<div style="width=400px; align=center">
 <div width="100%">
    <h3>Jupiter Deals</h3>
    <p><b>Javascript, React, Bootstrap, MongoDB, Mongoose, Node.js, & Express.js</b> - <br /> 
