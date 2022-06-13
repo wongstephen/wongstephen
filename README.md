@@ -1,8 +1,3 @@
-
-👋 Hi, I'm Stephen Wong, and welcome to my GitHub.
-
-I'm a full-stack software engineer experienced with JavaScript, ReactJS, Node.js, Python, SQL, HTML, CSS, and Git.
-
 ### Hi there 👋, my name is Stephen
 #### Cross-functional leader and Software Developer
 Welcome to my GitHub! I am an experienced leader of complex and scalable projects. My passion is mentoring and constantly learning. I develop software, let's connect to talk about how we can work together to generate value.
