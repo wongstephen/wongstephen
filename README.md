@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Stephen
 
-#### Full-stack software developer
+#### I'm a Full-stack software developer
 
 Welcome to my GitHub! I am a software developed with experience of leading complex projects of scale. My passion is mentoring and constantly learning. 
 
