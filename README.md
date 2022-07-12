@@ -2,7 +2,8 @@
 
 #### I'm a Full-stack software developer
 
-Welcome to my GitHub! I am a software developed with experience of leading complex projects of scale. My passion is mentoring and constantly learning. 
+Welcome to my GitHub! I am a software developer with experience of leading complex projects of scale.
+My passion in life is to continously learn and give back by mentoring peers. 
 
 Technologies: React JS, Javascript, Node, MongoDB, SQL, Express, 
 
