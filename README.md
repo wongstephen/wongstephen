@@ -6,7 +6,7 @@ Welcome to my GitHub! I am a software developer with experience of leading compl
 
 My passion in life is to continously learn and enrich members of the community through mentorships.
 
-Technologies: React JS, Javascript, Node, MongoDB, SQL, Express, 
+Technologies: React JS, Javascript, Node, MongoDB, Mongoose, SQL, Express, Python
 
 [Github](https://github.com/wongstephen)    
 [LinkedIn](https://www.linkedin.com/in/wongs/)  
