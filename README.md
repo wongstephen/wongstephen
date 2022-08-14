@@ -46,12 +46,21 @@
 ### Projects
 
 <div>
-<h3>Jupiter Deals</h3>
-<p>Inspired by affiliate marketing deal website, Jupiter Deals is a ready to deploy full-stack CRUD app. I developed the app as the project manager and product owner leading a team of four. The technologies used in this app are React, JavaScript, Node.js, MongoDB, and Express.js along with various libraries.</p>
+   <h3>Jupiter Deals</h3>
+   <p><b>Javascript, Bootstrap, MongoDB, Mongoose, Node.js, & Express.js</b> - Readily deployable CRUD app to post and manage the top sales around the internet.
+   </p>
 
-<img src="https://user-images.githubusercontent.com/20288105/184552643-32a5dc50-9ee3-41fd-bf9f-91ee302cd5c0.webm" alt="Jupiter Deals" width="400px" height="auto" />
+   <img src="https://user-images.githubusercontent.com/20288105/184552767-92202300-44ba-4a87-8cd5-e70d16b6fa87.gif" alt="Jupiter Deals" width="400px" height="auto" />
 
-
+   <a href="https://github.com/Jupiter115">
+    <img src="https://img.shields.io/badge/Github-dimgray?style=for-the-badge&logo=github&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+   
+   
+   <a href="https://jupiterdeals.netlify.app/">
+    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+   
 </div>
 
  
