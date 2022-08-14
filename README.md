@@ -16,7 +16,9 @@
 
 - My passion in life is to continously learn and enrich members of the community through mentorships.
 
-- I am actively looking for new projects and seeking employment 
+- On my free time, I have been learning Python and PostgreSQL
+
+- I am actively looking for new projects and seeking employment!  
 
 ---
 
@@ -30,8 +32,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
-- Technologies: React JS, Javascript, Node, MongoDB, Mongoose, SQL, Express, Python
 
-[Github](https://github.com/wongstephen)    
-[LinkedIn](https://www.linkedin.com/in/wongs/)  
+---
+
+### My stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wongstephen&theme=highcontrast)](https://git.io/streak-stats)
+
+ 
