@@ -18,7 +18,9 @@
 
 - On my free time, I have been learning Python and PostgreSQL
 
-- I am actively looking for new projects and seeking employment!  
+- I am actively looking for new projects and seeking employment!
+
+- Connect with me at contact@wongstephenk.com
 
 ---
 
