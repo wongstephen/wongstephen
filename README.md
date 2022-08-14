@@ -47,11 +47,12 @@
 
 <div>
    <h3>Jupiter Deals</h3>
-   <p><b>Javascript, Bootstrap, MongoDB, Mongoose, Node.js, & Express.js</b> - Readily deployable CRUD app to post and manage the top sales around the internet.
+   <p><b>Javascript, Bootstrap, MongoDB, Mongoose, Node.js, & Express.js</b> - <br /> 
+      Readily deployable CRUD app to post and manage the top sales around the internet.
    </p>
 
    <img src="https://user-images.githubusercontent.com/20288105/184552767-92202300-44ba-4a87-8cd5-e70d16b6fa87.gif" alt="Jupiter Deals" width="400px" height="auto" />
-
+<br /><br />
    <a href="https://github.com/Jupiter115">
     <img src="https://img.shields.io/badge/Github-dimgray?style=for-the-badge&logo=github&logoColor=white" alt="LinkedIn Badge"/>
    </a>
