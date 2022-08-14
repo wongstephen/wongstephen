@@ -1,4 +1,4 @@
-![My project-1](https://user-images.githubusercontent.com/20288105/184548090-ffb7446a-532e-4f2a-bb79-e47f3d0bc9be.jpg)
+<p align="center"><img src="https://user-images.githubusercontent.com/20288105/184548971-2c1ad15f-d6e5-4613-a203-1e1cf61e717c.jpg"></p>
 
 
 ### H!i there 👋, my name is Stephen
