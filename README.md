@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/20288105/184548971-2c1ad15f-d6e5-4613-a203-1e1cf61e717c.jpg"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/20288105/184549064-8d5ff9e6-32c7-4779-b513-c7bef8decf9a.jpg"></p>
 
 
 ### H!i there 👋, my name is Stephen
