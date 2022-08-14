@@ -39,6 +39,22 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 
+
+
+---
+
+### Projects
+
+<div>
+<h3>Jupiter Deals</h3>
+<p>Inspired by affiliate marketing deal website, Jupiter Deals is a ready to deploy full-stack CRUD app. I developed the app as the project manager and product owner leading a team of four. The technologies used in this app are React, JavaScript, Node.js, MongoDB, and Express.js along with various libraries.</p>
+
+<img src="https://user-images.githubusercontent.com/20288105/184552643-32a5dc50-9ee3-41fd-bf9f-91ee302cd5c0.webm" alt="Jupiter Deals" width="400px">
+
+
+</div>
+
+ 
 ---
 
 ### My stats
