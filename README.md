@@ -44,10 +44,10 @@
 ---
 
 ### Projects
-
-<div>
+<div width="400px">
+<div width="100%">
    <h3>Jupiter Deals</h3>
-   <p><b>Javascript, Bootstrap, MongoDB, Mongoose, Node.js, & Express.js</b> - <br /> 
+   <p><b>Javascript, React, Bootstrap, MongoDB, Mongoose, Node.js, & Express.js</b> - <br /> 
       Readily deployable CRUD app to post and manage the top sales around the internet.
    </p>
 
@@ -61,9 +61,32 @@
    <a href="https://jupiterdeals.netlify.app/">
     <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="LinkedIn Badge"/>
    </a>
-   
+
+
 </div>
 
+
+<div>
+   <h3>Growlerz Seattle</h3>
+   <p><b>Javascript, React, and Headless CMS</b> - <br /> 
+      Created for local business to serve as proof of concept in creating a easily maintainable app that can be updated by the business owners.
+   </p>
+
+   <img src="https://user-images.githubusercontent.com/20288105/184554133-b2ab072b-dda0-4079-b5d3-89a1cf67be26.gif" alt="Growlerz Seattle" width="400px" height="auto" />
+<br /><br />
+   <a href="https://github.com/Jupiter115">
+    <img src="https://img.shields.io/badge/Github-dimgray?style=for-the-badge&logo=github&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+   
+   
+   <a href="https://jupiterdeals.netlify.app/">
+    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+   
+
+</div>
+   
+   </div>
  
 ---
 
