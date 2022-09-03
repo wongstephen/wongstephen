@@ -43,6 +43,29 @@
 <div>
 
 <div width="100%">
+   <h3>Recyclr iOS app</h3>
+   <p><b>React Native, React.js, Javascript, MongoDB, Mongoose, Node.js, & Express.js</b> - <br /> 
+      Recyclr is a native iOS app that provides an accurate description of whether or not an object is recyclable through a simple photo upload process.
+   </p>
+
+   <img src="https://user-images.githubusercontent.com/20288105/188252587-2a159a33-c980-41df-b2b7-42ffbdb6af3d.png" alt="Recyclr" width="400px" height="auto" />
+   
+   <br /><br />
+   
+   <a href="https://github.com/recyclr-app">
+    <img src="https://img.shields.io/badge/Github-dimgray?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+   </a>
+   
+   
+   <a href="https://recyclr.netlify.com/">
+    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="website"/>
+   </a>
+
+</div>
+
+
+
+<div width="100%">
    <h3>Jupiter Deals</h3>
    <p><b>Javascript, React, Bootstrap, MongoDB, Mongoose, Node.js, & Express.js</b> - <br /> 
       Readily deployable CRUD app to post and manage the top sales around the internet.
