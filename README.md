@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/20288105/184549064-8d5ff9e6-32c7-4779-b513-c7bef8decf9a.jpg"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/20288105/192725839-65f77779-bf05-4c31-83c7-3a6f5465ddca.png"></p>
 
 <h1 align="center">
    👋 Hi there, my name is Stephen
@@ -34,13 +34,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="30" height="30"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Express" alt="Express" width="30" height="30"/>&nbsp;
+  
 </div>
 
 ---
 
 ### Projects
 
-<br />
 <br />
 <div>
 
@@ -127,7 +128,7 @@
 
    <img src="https://user-images.githubusercontent.com/20288105/184554133-b2ab072b-dda0-4079-b5d3-89a1cf67be26.gif" alt="Growlerz Seattle" width="400px" height="auto" />
    
-   <br /><br />
+   <br />
 
    <a href="https://github.com/wongstephen/growlerzseattle">
     <img src="https://img.shields.io/badge/Github-dimgray?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
