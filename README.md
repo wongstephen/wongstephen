@@ -5,7 +5,10 @@
 </h1>
 
 <br />
-I have a strong belief that the world has too many problems, and I'm here to solve some.
+
+<h3 align="center">
+I have a strong belief that the world has too many problems, <br /> and I'm here to solve some.
+</h3>
 <br />
 <br />
 
@@ -16,41 +19,61 @@ I have a strong belief that the world has too many problems, and I'm here to sol
    </a>
    <a href="https://1drv.ms/b/s!AqzJmAEIVVbei4dl5oxycFxyZ6M0mg?e=ZpdIJU"><img src="https://img.shields.io/badge/Resume-6CC644?style=for-the-badge&logoColor=white" alt="Resume"/></a>
 </div>
+<br />
 
 ## I'm a Frontend Web Developer from Seattle, WA
 
-
-Welcome to my GitHub! 
-
-As a front-end software engineer with a background in  marketer operations, I have the skills to tackle any challenge thrown my way.
-
-I am a Frontend web developer with a background of marketing operations and leading projects to deliver business results. My passion in life is to continously learn. On my free time, I have been learning Tailwind, Typscript, Python, and PostgreSQL
-
+<br />
+As a front-end software engineer with a background in marketer operations, I have the skills to tackle any challenges thrown my way. I have a penchant for clean code and elegant solutions.
+<br />
+<br />
+I specialize in the MERN stack and enjoy building high-quality, RESTful applications that are easy to use. My passion building and designing scalable, reliable and secure applications.
+<br />
+<br />
+I am currently learning TailwindCSS, PostgreSQL, and Python.
+<br />
+<br />
 I am actively looking for new projects and seeking employment! Connect with me at <a href="mailto:contact@wongstephenk.com">contact@wongstephenk.com</a>
 
----
-
-### Languages and Tools
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="30" height="30"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Express" alt="Express" width="30" height="30"/>&nbsp;
-  
-</div>
+<br />
 
 ---
-
-### Projects
 
 <br />
+
+## Languages and Tools
+
+<br />
+
 <div>
+
+### Front-end
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="30" height="30"/>&nbsp;
+
+### Back-end
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="Postgress" alt="Postgress" width="30" height="30"/>
+
+</div>
+
+<br />
+
+---
+
+<br />
+
+## Recent Projects
+
+<br />
 
 <div width="100%">
    <h3>Tool Library</h3>
@@ -71,6 +94,8 @@ I am actively looking for new projects and seeking employment! Connect with me a
     <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="website"/>
    </a>
 </div>
+
+<br />
 <br />
 
 <div width="100%">
