@@ -64,13 +64,7 @@ I am actively looking for new projects and seeking employment! Connect with me a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="Postgress" alt="Postgress" width="30" height="30"/>
 
 </div>
-
 <br />
-
----
-
-<br />
-
 ## Recent Projects
 
 <br />
@@ -174,8 +168,6 @@ I am actively looking for new projects and seeking employment! Connect with me a
    
 </div>
  
----
-
-### My stats
+## My stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wongstephen&theme=highcontrast)](https://git.io/streak-stats)
