@@ -50,7 +50,7 @@
       How often have you spent time looking for a tool in your garage and realized that you loaned it to a friend or family members? With the Tool Library app, tracking tools that are loaned out has never been easier. The beautiful and user-friendly app is built with a React frontend and styled with Tailwind. The backend server is created with Node.js and Express.js using data persisted to MongoDB. Features include content management and user authenication to secure login and data using bcrypt and jwt.
    </p>
 
-   <img src="https://user-images.githubusercontent.com/20288105/188252587-2a159a33-c980-41df-b2b7-42ffbdb6af3d.png" alt="Tool Loaner" width="400px" height="auto" />
+   <img src="https://user-images.githubusercontent.com/20288105/192722161-110495cb-7e99-4a6a-aec4-cfcc03d51442.png" alt="Tool Loaner" width="400px" height="auto" />
    
    <br />
    
@@ -71,7 +71,9 @@
    Static web app promoting web and app development services. Single page React app is styled with Tailwind to be minimalistic and aesthetically pleasing.
    </p>
 
-   <a href="https://toollibrary.netlify.com/">
+   <img src="https://user-images.githubusercontent.com/20288105/192722754-8c454eaa-5b1a-4348-a790-4ba33ecd11fd.png" alt="WSK Creative" width="400px" height="auto" />
+   <br />
+   <a href="http://www.wskcreative.com/">
     <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="website"/>
    </a>
 </div>
