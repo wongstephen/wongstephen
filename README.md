@@ -21,7 +21,7 @@ I have a strong belief that the world has too many problems, <br /> and I'm here
 </div>
 <br />
 
-## I'm a Frontend Web Developer from Seattle, WA
+## I'm a Front-end Software Engineer from Seattle, WA
 
 <br />
 As a front-end software engineer with a background in marketer operations, I have the skills to tackle any challenges thrown my way. I have a penchant for clean code and elegant solutions.
