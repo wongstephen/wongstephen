@@ -4,22 +4,29 @@
    👋 Hi there, my name is Stephen
 </h1>
 
+<br />
+I have a strong belief that the world has too many problems, and I'm here to solve some.
+<br />
+<br />
+
   <div id="badges" align="center">
+  
   <a href="https://www.linkedin.com/in/wongs/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
    <a href="https://1drv.ms/b/s!AqzJmAEIVVbei4dl5oxycFxyZ6M0mg?e=ZpdIJU"><img src="https://img.shields.io/badge/Resume-6CC644?style=for-the-badge&logoColor=white" alt="Resume"/></a>
 </div>
 
-### I'm a Frontend Web Developer from Seattle, WA
+## I'm a Frontend Web Developer from Seattle, WA
 
-- Welcome to my GitHub! I am a Frontend web developer with a background of marketing operations and leading projects to deliver business results.
 
-- My passion in life is to continously learn.
+Welcome to my GitHub! 
 
-- On my free time, I have been learning Tailwind, Typscript, Python, and PostgreSQL
+As a front-end software engineer with a background in  marketer operations, I have the skills to tackle any challenge thrown my way.
 
-- I am actively looking for new projects and seeking employment! Connect with me at <a href="mailto:contact@wongstephenk.com">contact@wongstephenk.com</a>
+I am a Frontend web developer with a background of marketing operations and leading projects to deliver business results. My passion in life is to continously learn. On my free time, I have been learning Tailwind, Typscript, Python, and PostgreSQL
+
+I am actively looking for new projects and seeking employment! Connect with me at <a href="mailto:contact@wongstephenk.com">contact@wongstephenk.com</a>
 
 ---
 
