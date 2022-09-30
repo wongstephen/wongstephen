@@ -65,6 +65,7 @@ I am actively looking for new projects and seeking employment! Connect with me a
 
 </div>
 <br />
+
 ## Recent Projects
 
 <br />
