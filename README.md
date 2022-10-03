@@ -73,7 +73,7 @@ I am actively looking for new projects and seeking employment! Connect with me a
 <div width="100%">
    <h3>Tool Library</h3>
    <p><b>React.js, Javascript, Tailwind, Node.js, Express.js, and MongoDB</b> - <br /> 
-      How often have you spent time looking for a tool in your garage and realized that you loaned it to a friend or family members? With the Tool Library app, tracking tools that are loaned out has never been easier. The beautiful and user-friendly app is built with a React frontend and styled with Tailwind. The backend server is created with Node.js and Express.js using data persisted to MongoDB. Features include content management and user authenication to secure login and data using bcrypt and jwt.
+      How often have you spent time looking for a tool in your garage and realized that you loaned it to a friend or family members? With the Tool Library app, tracking tools that are loaned out has never been easier. The beautiful and user-friendly app is built with a React frontend and styled with Tailwind. The backend server is created with Node.js and Express.js using data persisted to MongoDB. Features include content management and user authentication to secure login and data using bcrypt and jwt.
    </p>
 
    <img src="https://user-images.githubusercontent.com/20288105/192722161-110495cb-7e99-4a6a-aec4-cfcc03d51442.png" alt="Tool Loaner" width="400px" height="auto" />
