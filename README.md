@@ -159,11 +159,11 @@ I am actively looking for new projects and seeking employment! Connect with me a
    
    <br />
 
-   <a href="https://github.com/wongstephen/growlerzseattle">
+   <a href="https://github.com/wongstephen/growlerz2022">
     <img src="https://img.shields.io/badge/Github-dimgray?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
    </a>
    
-   <a href="https://growlerzseattle.netlify.app/">
+   <a href="https://growlerz.wskcreative.com/">
     <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="website"/>
    </a>
 
