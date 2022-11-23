@@ -87,7 +87,7 @@ I am actively looking for new projects and seeking employment! Connect with me a
    </a>
    
    
-   <a href="https://toollibrary.netlify.com/">
+   <a href="https://toollibrary.wongstephenk.com/">
     <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="website"/>
    </a>
 </div>
@@ -143,7 +143,7 @@ I am actively looking for new projects and seeking employment! Connect with me a
    </a>
    
    
-   <a href="https://jupiterdeals.netlify.app/">
+   <a href="https://jupiter.wongstephenk.com/">
     <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="website"/>
    </a>
 
