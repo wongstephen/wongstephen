@@ -32,7 +32,7 @@ As a front-end software engineer with a background in marketer operations, I hav
 I specialize in the MERN stack and enjoy building high-quality, RESTful applications that are easy to use. My passion building and designing scalable, reliable and secure applications.
 <br />
 <br />
-I am currently learning TailwindCSS, PostgreSQL, and Python.
+I am currently learning deploying applications to the cloud in a VPS using NGINX, PM2, and UFW.
 <br />
 <br />
 I am actively looking for new projects and seeking employment! Connect with me at <a href="mailto:contact@wongstephenk.com">contact@wongstephenk.com</a>
