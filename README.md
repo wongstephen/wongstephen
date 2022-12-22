@@ -78,8 +78,7 @@ I am actively looking for new projects and seeking employment! Connect with me a
       The Webpass Dashboard is a feature-rich and visually appealing web application that utilizes the latest technologies, including JavaScript, chart.js, and react, to bring you real-time data. An express node backend was also implemented to efficiently serve up the API data. Our dashboard boasts a neubrutalistic design, emphasizing simplicity and functionality. We have included custom analytics to help you gain insights from the data and make informed decisions. Visit http://wpdash.wongstephenk.com/ to discover the Webpass Dashboard. Due to the charts, the site is best viewed on a tablet or desktop. 
    </p>
 
-   <img src="[https://user-imag
-es.githubusercontent.com/20288105/192722161-110495cb-7e99-4a6a-aec4-cfcc03d51442.png](https://user-images.githubusercontent.com/20288105/209196314-ad4b7ea4-7904-4e8e-8248-628e02a2462c.jpeg)" alt="WP Dashboard" width="400px" height="auto" />
+   <img src="https://user-images.githubusercontent.com/20288105/209196807-f799fd32-5768-47d3-b1aa-b95937e59c8e.jpeg" alt="WP Dashboard" width="400px" height="auto" />
    
    <br />
    
