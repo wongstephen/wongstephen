@@ -73,6 +73,30 @@ I am actively looking for new projects and seeking employment! Connect with me a
 <br />
 
 <div width="100%">
+   <h3>Webpass Dashboard</h3>
+   <p><b>React.js, Javascript, Tailwind, Node.js, Express.js, Rest API, and MongoDB</b> - <br /> 
+      The Webpass Dashboard is a feature-rich and visually appealing web application that utilizes the latest technologies, including JavaScript, chart.js, and react, to bring you real-time data. An express node backend was also implemented to efficiently serve up the API data. Our dashboard boasts a neubrutalistic design, emphasizing simplicity and functionality. We have included custom analytics to help you gain insights from the data and make informed decisions. Visit http://wpdash.wongstephenk.com/ to discover the Webpass Dashboard. Due to the charts, the site is best viewed on a tablet or desktop. 
+   </p>
+
+   <img src="[https://user-imag
+es.githubusercontent.com/20288105/192722161-110495cb-7e99-4a6a-aec4-cfcc03d51442.png](https://user-images.githubusercontent.com/20288105/209196314-ad4b7ea4-7904-4e8e-8248-628e02a2462c.jpeg)" alt="WP Dashboard" width="400px" height="auto" />
+   
+   <br />
+   
+   <a href="https://github.com/wongstephen/toolloaner-frontend](https://github.com/wongstephen/webpass-dashboard">
+    <img src="https://img.shields.io/badge/Github-dimgray?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+   </a>
+   
+   
+   <a href="http://wpdash.wongstephenk.com/">
+    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="website"/>
+   </a>
+</div>
+
+<br />
+<br />
+
+<div width="100%">
    <h3>Tool Library</h3>
    <p><b>React.js, Javascript, Tailwind, Node.js, Express.js, and MongoDB</b> - <br /> 
       How often have you spent time looking for a tool in your garage and realized that you loaned it to a friend or family members? With the Tool Library app, tracking tools that are loaned out has never been easier. The beautiful and user-friendly app is built with a React frontend and styled with Tailwind. The backend server is created with Node.js and Express.js using data persisted to MongoDB. Features include content management and user authentication to secure login and data using bcrypt and jwt.
@@ -151,7 +175,7 @@ I am actively looking for new projects and seeking employment! Connect with me a
 <br /><br />
 <div>
    <h3>Growlerz Seattle</h3>
-   <p><b>Javascript, React, Material UI, and Headless CMS</b> - <br /> 
+   <p><b>Javascript, React, Tailwind, GraphQL, and Headless Strapi CMS</b> - <br /> 
       Created for local business to serve as proof of concept to develope an easily maintainable app that can be updated by the business owners via a headless CMS.
    </p>
 
