@@ -25,17 +25,23 @@ I have a strong belief that the world has too many problems, <br /> and I'm here
 
 ## I'm a Front-end Software Engineer from Seattle, WA
 
-<br />
-As a front-end software engineer with a background in marketer operations, I have the skills to tackle any challenges thrown my way. I have a penchant for clean code and elegant solutions.
-<br />
-<br />
-I specialize in the MERN stack and enjoy building high-quality, RESTful applications that are easy to use. My passion building and designing scalable, reliable and secure applications.
+Hi there! I am a front-end software engineer with a background in marketing operations. I have a strong focus on writing clean code and finding elegant solutions to complex problems.
 <br />
 <br />
-I am currently learning deploying applications to the cloud in a VPS using NGINX, PM2, and UFW.
+
+I specialize in the MERN stack and have a passion for building high-quality, RESTful applications that are intuitive and easy to use. I am also committed to building scalable, reliable, and secure applications.
 <br />
 <br />
-I am actively looking for new projects and seeking employment! Connect with me at <a href="mailto:contact@wongstephenk.com">contact@wongstephenk.com</a>
+
+I am currently learning how to deploy applications to the cloud using VPS and tools such as NGINX, PM2, and UFW.
+<br />
+<br />
+
+I am always looking for new projects and opportunities to grow as a developer. If you're interested in working together, please don't hesitate to reach out at contact@wongstephenk.com. I'd love to connect and see how I can contribute to your team!
+
+
+
+
 
 <br />
 
