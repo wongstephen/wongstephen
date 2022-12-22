@@ -18,7 +18,7 @@ I have a strong belief that the world has too many problems, <br /> and I'm here
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a> 
    <a href="https://www.wongstephenk.com/"><img src="https://img.shields.io/badge/Website-6CC644?style=for-the-badge&logoColor=white" alt="Website"/></a>
-   <a href="https://1drv.ms/b/s!AqzJmAEIVVbei4dl5oxycFxyZ6M0mg?e=ZpdIJU"><img src="https://img.shields.io/badge/Resume-6CC644?style=for-the-badge&logoColor=white" alt="Resume"/></a>
+<!--    <a href="https://1drv.ms/b/s!AqzJmAEIVVbei4dl5oxycFxyZ6M0mg?e=ZpdIJU"><img src="https://img.shields.io/badge/Resume-6CC644?style=for-the-badge&logoColor=white" alt="Resume"/></a> -->
 </div>
 
 <br />
