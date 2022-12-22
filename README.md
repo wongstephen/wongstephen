@@ -23,6 +23,7 @@ I have a strong belief that the world has too many problems, <br /> and I'm here
 
 <br />
 
+
 ## I'm a Front-end Software Engineer from Seattle, WA
 
 Hi there! I am a front-end software engineer with a background in marketing operations. I have a strong focus on writing clean code and finding elegant solutions to complex problems.
@@ -107,7 +108,7 @@ I am always looking for new projects and opportunities to grow as a developer. I
       How often have you spent time looking for a tool in your garage and realized that you loaned it to a friend or family members? With the Tool Library app, tracking tools that are loaned out has never been easier. The beautiful and user-friendly app is built with a React frontend and styled with Tailwind. The backend server is created with Node.js and Express.js using data persisted to MongoDB. Features include content management and user authentication to secure login and data using bcrypt and jwt.
    </p>
 
-   <img src="https://user-images.githubusercontent.com/20288105/192722161-110495cb-7e99-4a6a-aec4-cfcc03d51442.png" alt="Tool Loaner" width="400px" height="auto" />
+   <img src="https://user-images.githubusercontent.com/20288105/209213344-cd32490e-51f3-4be4-ab10-b40f76cb9187.png" alt="Tool Loaner" width="400px" height="auto" />
    
    <br />
    
