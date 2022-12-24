@@ -185,12 +185,12 @@ I am always looking for new projects and opportunities to grow as a developer. I
       Created for local business to serve as proof of concept to develope an easily maintainable app that can be updated by the business owners via a headless CMS.
    </p>
 
-   <img src="https://user-images.githubusercontent.com/20288105/184554133-b2ab072b-dda0-4079-b5d3-89a1cf67be26.gif" alt="Growlerz Seattle" width="400px" height="auto" />
+   <img src="https://user-images.githubusercontent.com/20288105/209415459-bf24c12b-eefc-4cf4-8172-d7e50b629fa9.png" alt="Growlerz Seattle" width="400px" height="auto" />
    
    <br />
 
    <a href="https://github.com/wongstephen/growlerz2022">
-    <img src="https://user-images.githubusercontent.com/20288105/209415459-bf24c12b-eefc-4cf4-8172-d7e50b629fa9.png" alt="github"/>
+    <img src="https://img.shields.io/badge/Github-dimgray?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
    </a>
    
 
