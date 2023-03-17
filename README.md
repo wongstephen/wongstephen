@@ -1,203 +1,146 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/20288105/192725839-65f77779-bf05-4c31-83c7-3a6f5465ddca.png"></p>
-
-<h1 align="center">
-   👋 Hi there, my name is Stephen
-</h1>
-
-<br />
-
-<h3 align="center">
-I have a strong belief that the world has too many problems, <br /> and I'm here to solve some.
-</h3>
+<img src="./assets/abstract.webp" width="100%" />
 <br />
 <br />
 
-  <div id="badges" align="center">
-  
-  <a href="https://www.linkedin.com/in/wongs/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   </a> 
-   <a href="https://www.wongstephenk.com/"><img src="https://img.shields.io/badge/Website-6CC644?style=for-the-badge&logoColor=white" alt="Website"/></a>
-<!--    <a href="https://1drv.ms/b/s!AqzJmAEIVVbei4dl5oxycFxyZ6M0mg?e=ZpdIJU"><img src="https://img.shields.io/badge/Resume-6CC644?style=for-the-badge&logoColor=white" alt="Resume"/></a> -->
+# Stephen Wong
+
+<br />
+
+<a href="https://www.wongstephenk.com/"><img src="https://img.shields.io/badge/Website-6CC644?style=for-the-badge&logoColor=white" alt="Stephen Wong Website"/></a>
+<a href="https://www.linkedin.com/in/wongs/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white" alt="Stephen Wong LinkedIn"/></a>
+<a href="https://1drv.ms/b/s!AqzJmAEIVVbei5pgrIrGwfPz6sx8iA?e=ggs3wI"><img src="https://img.shields.io/badge/Resume-6CC644?style=for-the-badge&logoColor=white" alt="Stephen Wong Resume"/></a>
+<a href="mailto:contact@wongstephenk.com"><img src="https://img.shields.io/badge/email-blue?style=for-the-badge&logoColor=white" alt="Email"/></a>
+
+Hey there, I'm Stephen, a software engineer with a knack for building cool stuff. From design to web apps, I'm all about finding clever solutions to tough problems.
+
+Don't forget to visit my <a href="https://www.wongstephenk.com" aria-label="Stephen Wong's website" >website</a> to get the full scoop.
+
+When I'm not coding, I hang out with my trusty corgi, Num Num. He's my go-to when it comes to debugging code (you know, the old rubber duck trick?). He may not be as good at coding as I am, but he's a great listener!
+
+<br />
+<div align="center"> 
+    <img src="assets/numnum.webp" width="150px" />
 </div>
-
 <br />
 
-## I'm a Front-end Software Engineer from Seattle, WA
-
-Hi there! I am a front-end software engineer with a background in marketing operations and project management. I have a strong focus on writing clean code and finding elegant solutions to complex problems.
+Take a look at my GitHub repos if you want to see what I've been up to lately. And if you're up for a chat about all things software dev, hit me up!
 <br />
-<br />
-
-I specialize in the MERN stack and have a passion for building high-quality, RESTful applications that are intuitive and easy to use. I am also committed to building scalable, reliable, and secure applications.
-<br />
-<br />
-
-I am currently learning how to deploy applications to the cloud using VPS and tools such as NGINX, PM2, and UFW.
-<br />
-<br />
-
-I am always looking for new projects and opportunities to grow as a developer. If you're interested in working together, please don't hesitate to reach out at contact@wongstephenk.com. I'd love to connect and see how I can contribute to your team!
-
 <br />
 
 ---
 
 <br />
 
-## Languages and Tools
+## Projects
+
+<table border=1>
+<tr valign="top">
+<td width="50%" >
+<h2>Tool Library</h2>
+<img src="assets/projects/toollibrary.webp" width="100%"/>
+<p><strong>JavaScript, React, Tailwind, Node.js, Express.js, MongoDb - </strong> Tool Library offers a user-friendly system to track your tools and monitor borrowing and returning. Stay organized and avoid losing or misplacing your tools.</p>
+<strong>Demo Login:</strong> guest@toollibrary.com</br>
+<strong>Demo Password:</strong> password
 
 <br />
+<a href="https://toollibrary.wongstephenk.com/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website"/></a>
+<a href="https://github.com/wongstephen/toolloaner-frontend"><img src="https://img.shields.io/badge/Github FE-c1c1c1?style=for-the-badge&logoColor=white" alt="Github"/></a>
+<a href="https://github.com/wongstephen/toolloaner-backend"><img src="https://img.shields.io/badge/Github BE-c1c1c1?style=for-the-badge&logoColor=white" alt="Github"/></a>
+</td>
 
-<div>
+<td width="50%" >
+<h2>Growlerz Seattle</h2>
+<img src="assets/projects/growlerz.webp" width="100%"/>
+<p><strong>JavaScript, React, Tailwind, GraphQL, Strapi CMs, PostgreSQL - </strong> The Growlerz dog park website utilizes a headless CMS, allowing for effortless updates to business information by the client. Visitors can easily access the necessary information on the website.</p>
 
-### Front-end
+<br />
+<a href="https://growlerz.wongstephenk.com/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website"/></a>
+<a href="https://github.com/wongstephen/growlerz2022"><img src="https://img.shields.io/badge/Github FE-c1c1c1?style=for-the-badge&logoColor=white" alt="Github"/></a>
+<a href="https://github.com/wongstephen/growlerzseattle-cms"><img src="https://img.shields.io/badge/Github BE-c1c1c1?style=for-the-badge&logoColor=white" alt="Github"/></a>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="30" height="30" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="30" height="30"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="30" height="30"/>&nbsp;
+</td>
+</tr>
 
-### Back-end
+<tr valign="top">
+<td width="50%" >
+<h2>Tool Library</h2>
+<img src="assets/projects/webpass.webp" width="100%"/>
+<p><strong>JavaScript, React, Chart.js, Node.js, Express.js - </strong> Webpass Dash is a dashboard app that extracts internet availability information for properties from Webpass.net's website and presents it in a clear and informative format. With its user-friendly interface, Webpass Dash makes it easy to access this valuable data and stay informed.</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="30" height="30"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="Postgress" alt="Postgress" width="30" height="30"/>
+<br />
+<a href="http://wpdash.wongstephenk.com/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website"/></a>
+<a href="https://github.com/wongstephen/webpass-dashboard"><img src="https://img.shields.io/badge/Github FE-c1c1c1?style=for-the-badge&logoColor=white" alt="Github"/></a>
+<a href="https://github.com/wongstephen/webpass-function"><img src="https://img.shields.io/badge/Github BE-c1c1c1?style=for-the-badge&logoColor=white" alt="Github"/></a>
 
+</td>
+
+<td width="50%" >
+<h2>Better AI</h2>
+<img src="assets/projects/betterai.webp" width="100%"/>
+<p><strong>JavaScript, React, Tailwind,  RESTful API - </strong> Better AI is a user-friendly app powered by ChatGPT, designed to produce accurate and coherent responses to your prompts. Whether you're a writer or a marketer, our innovative technology streamlines your writing process and enhances your communication.</p>
+<br />
+<a href="https://betterai.netlify.app/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website"/></a>
+<a href="https://github.com/wongstephen/betterai"><img src="https://img.shields.io/badge/Github-c1c1c1?style=for-the-badge&logoColor=white" alt="Github"/></a>
+</td>
+</tr>
+</table>
+
+## Other Components or Small Projects
+
+<table border=1 width=100% valign=top>
+<tr>
+<td width=33%><a href="https://frontend-multi-step-form.netlify.app/">
+    <h3>Multi-step Form</h3><img src="assets/projects/multi-step-form.webp" />
+</a></td>
+<td width=33%><a href="https://frontend-mentor-news-site-sw.netlify.app/">
+    <h3>Newspaper Layout</h3><img src="assets/projects/newspaper.webp" />
+</a></td>
+<td width=33%><a href="https://frontend-time-tracking-dashboard.netlify.app/">
+    <h3>Time Tracker</h3><img src="assets/projects/time-tracker.webp" />
+</a></td>
+</tr>
+<tr>
+<td width=33%><a href="https://jupiter.wongstephenk.com/">
+    <h3>Jupiter Deals</h3><img src="assets/projects/jupdeals.webp" />
+</a></td>
+<td width=33%><a href="https://recyclr.netlify.app/">
+    <h3>Recyclr iOS App</h3><img src="assets/projects/recyclr.webp" />
+</a></td>
+<td width=33%><a href="https://frontend-intro-section-dropdown-nav.netlify.app/">
+    <h3>Landing Page</h3><img src="assets/projects/landing.webp" />
+</a></td>
+</tr>
+</table>
+
+## Technologies
+
+Here are some of the technologies I have worked with (but not limited to):
+
+<div align="left">
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI" /></code><br />
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
 </div>
 <br />
 
-## Recent Projects
-
-<br />
-
-<div width="100%">
-   <h3>Webpass Dashboard</h3>
-   <p><b>React.js, Javascript, Tailwind, Node.js, Express.js, Rest API, and MongoDB</b> - <br /> 
-      The Webpass Dashboard is a feature-rich and visually appealing web application that utilizes the latest technologies, including JavaScript, chart.js, and react, to bring you real-time data. An express node backend was also implemented to efficiently serve up the API data. Our dashboard boasts a neubrutalistic design, emphasizing simplicity and functionality. We have included custom analytics to help you gain insights from the data and make informed decisions. Visit http://wpdash.wongstephenk.com/ to discover the Webpass Dashboard. Due to the charts, the site is best viewed on a tablet or desktop. 
-   </p>
-
-   <img src="./assets/projects/webpass.webp" alt="WP Dashboard" width="400px" height="auto" />
-   
-   <br />
-   
-   <a href="https://github.com/wongstephen/toolloaner-frontend](https://github.com/wongstephen/webpass-dashboard">
-    <img src="https://img.shields.io/badge/Github-dimgray?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-   </a>
-   
-   
-   <a href="http://wpdash.wongstephenk.com/">
-    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="website"/>
-   </a>
-</div>
-
-<br />
-<br />
-
-<div width="100%">
-   <h3>Tool Library</h3>
-   <p><b>React.js, Javascript, Tailwind, Node.js, Express.js, and MongoDB</b> - <br /> 
-      How often have you spent time looking for a tool in your garage and realized that you loaned it to a friend or family members? With the Tool Library app, tracking tools that are loaned out has never been easier. The beautiful and user-friendly app is built with a React frontend and styled with Tailwind. The backend server is created with Node.js and Express.js using data persisted to MongoDB. Features include content management and user authentication to secure login and data using bcrypt and jwt.
-   </p>
-   <p>Signup or login as a guest with username <strong>demo@toollibrary.com</strong> and <strong>password</strong> as password.</p>
-
-   <img src="https://user-images.githubusercontent.com/20288105/209213344-cd32490e-51f3-4be4-ab10-b40f76cb9187.png" alt="Tool Loaner" width="400px" height="auto" />
-   
-   <br />
-   
-   <a href="https://github.com/wongstephen/toolloaner-frontend">
-    <img src="https://img.shields.io/badge/Github-dimgray?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-   </a>
-   
-   
-   <a href="https://toollibrary.wongstephenk.com/">
-    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="website"/>
-   </a>
-</div>
-
-<br />
-<br />
-
-<div width="100%">
-   <h3>WSK Creative</h3>
-   <p><b>React.js, Javascript, Tailwind</b> - <br /> 
-   Static web app promoting web and app development services. Single page React app is styled with Tailwind to be minimalistic and aesthetically pleasing.
-   </p>
-
-   <img src="https://user-images.githubusercontent.com/20288105/192722754-8c454eaa-5b1a-4348-a790-4ba33ecd11fd.png" alt="WSK Creative" width="400px" height="auto" />
-   <br />
-   <a href="http://www.wskcreative.com/">
-    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="website"/>
-   </a>
-</div>
-<br /><br />
-<div width="100%">
-   <h3>Recyclr iOS app</h3>
-   <p><b>React Native, React.js, Javascript, MongoDB, Mongoose, Node.js, & Express.js</b> - <br /> 
-      Recyclr is a native iOS app that provides an accurate description of whether or not an object is recyclable through a simple photo upload process. The iOS app is built with React Native and Expo. It retrieves data from a backend using NodeJS, Cloudinary, Azure Computer Vision, and MongoDB. 
-   </p>
-
-   <img src="https://user-images.githubusercontent.com/20288105/188252587-2a159a33-c980-41df-b2b7-42ffbdb6af3d.png" alt="Recyclr" width="400px" height="auto" />
-   
-   <br />
-   
-   <a href="https://github.com/recyclr-app">
-    <img src="https://img.shields.io/badge/Github-dimgray?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-   </a>
-   
-   
-   <a href="https://recyclr.netlify.com/">
-    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="website"/>
-   </a>
-</div>
-<br /><br />
-<div width="100%">
-   <h3>Jupiter Deals</h3>
-   <p><b>Javascript, React, Bootstrap, MongoDB, Mongoose, Node.js, & Express.js</b> - <br /> 
-      Web app to post and manage the top sales around the internet. I led a team of four to build a full-stack application using agile methodologies. The app was accomplished in under a week. 
-   </p>
-
-   <img src="https://user-images.githubusercontent.com/20288105/184552767-92202300-44ba-4a87-8cd5-e70d16b6fa87.gif" alt="Jupiter Deals" width="400px" height="auto" />
-   
-   <br />
-   
-   <a href="https://github.com/Jupiter115">
-    <img src="https://img.shields.io/badge/Github-dimgray?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-   </a>
-   
-   
-   <a href="https://jupiter.wongstephenk.com/">
-    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="website"/>
-   </a>
-
-</div>
-<br /><br />
-<div>
-   <h3>Growlerz Seattle</h3>
-   <p><b>Javascript, React, Tailwind, GraphQL, and Headless Strapi CMS</b> - <br /> 
-      Created for local business to serve as proof of concept to develope an easily maintainable app that can be updated by the business owners via a headless CMS.
-   </p>
-
-   <img src="https://user-images.githubusercontent.com/20288105/209415459-bf24c12b-eefc-4cf4-8172-d7e50b629fa9.png" alt="Growlerz Seattle" width="400px" height="auto" />
-   
-   <br />
-
-   <a href="https://github.com/wongstephen/growlerz2022">
-    <img src="https://img.shields.io/badge/Github-dimgray?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-   </a>
-
-   <a href="https://growlerz.wongstephenk.com/">
-    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="website"/>
-   </a>
-
-</div>
-   
-</div>
- 
 ## My stats
 
+<p>I can't put down my computer because I enjoy learing a little bit of something every day.</p>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wongstephen&theme=highcontrast)](https://git.io/streak-stats)
+
+<body>
