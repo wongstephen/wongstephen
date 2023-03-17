@@ -89,26 +89,26 @@ Take a look at my GitHub repos if you want to see what I've been up to lately. A
 
 <table border=1 width=100% valign=top>
 <tr>
-<td width=33%><a href="https://frontend-multi-step-form.netlify.app/">
-    <h3>Multi-step Form</h3></a><img src="assets/projects/multi-step-form.webp" />
-</td>
-<td width=33%><a href="https://frontend-mentor-news-site-sw.netlify.app/">
-    <h3>Newspaper Layout</h3></a><img src="assets/projects/newspaper.webp" />
-</td>
-<td width=33%><a href="https://frontend-time-tracking-dashboard.netlify.app/">
-    <h3>Time Tracker</h3></a><img src="assets/projects/time-tracker.webp" />
-</td>
+<td width=33%>
+    <h3>Multi-step Form</h3><img src="assets/projects/multi-step-form.webp" /><a href="https://frontend-multi-step-form.netlify.app/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website"/>
+</a></td>
+<td width=33%>
+    <h3>Newspaper Layout</h3><img src="assets/projects/newspaper.webp" /><a href="https://frontend-mentor-news-site-sw.netlify.app/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website"/>
+</a></td>
+<td width=33%>
+    <h3>Time Tracker</h3><img src="assets/projects/time-tracker.webp" /><a href="https://frontend-time-tracking-dashboard.netlify.app/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website"/>
+</a></td>
 </tr>
 <tr>
-<td width=33%><a href="https://jupiter.wongstephenk.com/">
-    <h3>Jupiter Deals</h3></a><img src="assets/projects/jupdeals.webp" />
-</td>
-<td width=33%><a href="https://recyclr.netlify.app/">
-    <h3>Recyclr iOS App</h3></a><img src="assets/projects/recyclr.webp" />
-</td>
-<td width=33%><a href="https://frontend-intro-section-dropdown-nav.netlify.app/">
-    <h3>Landing Page</h3></a><img src="assets/projects/landing.webp" />
-</td>
+<td width=33%>
+    <h3>Jupiter Deals</h3><img src="assets/projects/jupdeals.webp" /><a href="https://jupiter.wongstephenk.com/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website"/>
+</a></td>
+<td width=33%>
+    <h3>Recyclr iOS App</h3><img src="assets/projects/recyclr.webp" /><a href="https://recyclr.netlify.app/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website"/>
+</a></td>
+<td width=33%>
+    <h3>Landing Page</h3><img src="assets/projects/landing.webp" /><a href="https://frontend-intro-section-dropdown-nav.netlify.app/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website"/>
+</a></td>
 </tr>
 </table>
 
@@ -117,7 +117,7 @@ Take a look at my GitHub repos if you want to see what I've been up to lately. A
 Here are some of the technologies I have worked with (but not limited to):
 
 <div align="left">
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript" />
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" />
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" />
