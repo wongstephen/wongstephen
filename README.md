@@ -39,7 +39,7 @@ Take a look at my GitHub repos if you want to see what I've been up to lately. A
 <h2>Tool Library</h2>
 <img src="assets/projects/toollibrary.webp" width="100%"/>
 <p><strong>JavaScript, React, Tailwind, Node.js, Express.js, MongoDb - </strong> Tool Library offers a user-friendly system to track your tools and monitor borrowing and returning. Stay organized and avoid losing or misplacing your tools.</p>
-<strong>Demo Login:</strong> guest@toollibrary.com</br>
+<strong>Demo Login:</strong> demo@toollibrary.com</br>
 <strong>Demo Password:</strong> password
 
 <br />
@@ -134,6 +134,7 @@ Here are some of the technologies I have worked with (but not limited to):
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker" />
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx" />
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" />
+<!-- Where these came from https://marwin1991.github.io/profile-technology-icons/ -->
 </div>
 <br />
 
