@@ -36,10 +36,10 @@ Take a look at my GitHub repos if you want to see what I've been up to lately. A
 <table border=1>
 <tr valign="top">
 <td width="50%" >
-<h2>Tool Library</h2>
+<h2>BorrowNinja</h2>
 <img src="assets/projects/toollibrary.webp" width="100%"/>
-<p><strong>JavaScript, React, Tailwind, Node.js, Express.js, MongoDb - </strong> Tool Library offers a user-friendly system to track your tools and monitor borrowing and returning. Stay organized and avoid losing or misplacing your tools.</p>
-<strong>Demo Login:</strong> demo@toollibrary.com</br>
+<p><strong>JavaScript, React, Tailwind, Node.js, Express.js, MongoDb - </strong> BorrowNinja offers a user-friendly system to track your tools and monitor borrowing and returning. Stay organized and avoid losing or misplacing your tools.</p>
+<strong>Demo Login:</strong> demo@borrowninja.com</br>
 <strong>Demo Password:</strong> password
 
 <br />
@@ -63,9 +63,9 @@ Take a look at my GitHub repos if you want to see what I've been up to lately. A
 
 <tr valign="top">
 <td width="50%" >
-<h2>Tool Library</h2>
+<h2>WebpassWatch</h2>
 <img src="assets/projects/webpass.webp" width="100%"/>
-<p><strong>JavaScript, React, Chart.js, Node.js, Express.js - </strong> Webpass Dash is a dashboard app that extracts internet availability information for properties from Webpass.net's website and presents it in a clear and informative format. With its user-friendly interface, Webpass Dash makes it easy to access this valuable data and stay informed.</p>
+<p><strong>JavaScript, React, Chart.js, Node.js, Express.js - </strong> WebpassWatch is a dashboard app that extracts internet availability information for properties from Webpass.net's website and presents it in a clear and informative format. With its user-friendly interface, WebpassWatch makes it easy to access this valuable data and stay informed.</p>
 
 <br />
 <a href="http://wpdash.wongstephenk.com/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website"/></a>
