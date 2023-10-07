@@ -43,7 +43,7 @@ Take a look at my GitHub repos if you want to see what I've been up to lately. A
 <strong>Demo Password:</strong> password
 
 <br />
-<a href="https://borrowninja.com/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website"/></a>
+<!-- <a href="https://borrowninja.com/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website"/></a> -->
 <a href="https://github.com/wongstephen/toolloaner-frontend"><img src="https://img.shields.io/badge/Github FE-c1c1c1?style=for-the-badge&logoColor=white" alt="Github"/></a>
 <a href="https://github.com/wongstephen/toolloaner-backend"><img src="https://img.shields.io/badge/Github BE-c1c1c1?style=for-the-badge&logoColor=white" alt="Github"/></a>
 </td>
@@ -54,7 +54,7 @@ Take a look at my GitHub repos if you want to see what I've been up to lately. A
 <p><strong>JavaScript, React, Tailwind, GraphQL, Strapi CMs, PostgreSQL - </strong> The Growlerz dog park website utilizes a headless CMS, allowing for effortless updates to business information by the client. Visitors can easily access the necessary information on the website.</p>
 
 <br />
-<a href="https://growlerz.wongstephenk.com/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website"/></a>
+<!-- <a href="https://growlerz.wongstephenk.com/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website"/></a> -->
 <a href="https://github.com/wongstephen/growlerz2022"><img src="https://img.shields.io/badge/Github FE-c1c1c1?style=for-the-badge&logoColor=white" alt="Github"/></a>
 <a href="https://github.com/wongstephen/growlerzseattle-cms"><img src="https://img.shields.io/badge/Github BE-c1c1c1?style=for-the-badge&logoColor=white" alt="Github"/></a>
 
@@ -68,7 +68,7 @@ Take a look at my GitHub repos if you want to see what I've been up to lately. A
 <p><strong>JavaScript, React, Chart.js, Node.js, Express.js - </strong> WebpassWatch is a dashboard app that extracts internet availability information for properties from Webpass.net's website and presents it in a clear and informative format. With its user-friendly interface, WebpassWatch makes it easy to access this valuable data and stay informed.</p>
 
 <br />
-<a href="http://wpdash.wongstephenk.com/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website"/></a>
+<!-- <a href="http://wpdash.wongstephenk.com/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website"/></a> -->
 <a href="https://github.com/wongstephen/webpass-dashboard"><img src="https://img.shields.io/badge/Github FE-c1c1c1?style=for-the-badge&logoColor=white" alt="Github"/></a>
 <a href="https://github.com/wongstephen/webpass-function"><img src="https://img.shields.io/badge/Github BE-c1c1c1?style=for-the-badge&logoColor=white" alt="Github"/></a>
 
@@ -79,7 +79,7 @@ Take a look at my GitHub repos if you want to see what I've been up to lately. A
 <img src="assets/projects/betterai.webp" width="100%"/>
 <p><strong>JavaScript, React, Tailwind,  RESTful API - </strong> Better AI is a user-friendly app powered by ChatGPT, designed to produce accurate and coherent responses to your prompts. Whether you're a writer or a marketer, our innovative technology streamlines your writing process and enhances your communication.</p>
 <br />
-<a href="https://betterai.netlify.app/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website"/></a>
+<!-- <a href="https://betterai.netlify.app/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logoColor=white" alt="Website"/></a> -->
 <a href="https://github.com/wongstephen/betterai"><img src="https://img.shields.io/badge/Github-c1c1c1?style=for-the-badge&logoColor=white" alt="Github"/></a>
 </td>
 </tr>
