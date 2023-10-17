@@ -7,8 +7,7 @@
 <br />
 
 <a href="https://www.wongstephenk.com/"><img src="https://img.shields.io/badge/Website-6CC644?style=for-the-badge&logoColor=white" alt="Stephen Wong Website"/></a>
-<a href="https:◊//www.linkedin.com/in/wongs/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white" alt="Stephen Wong LinkedIn"/></a>
-<a href="https://1drv.ms/b/s!AqzJmAEIVVbei5pgrIrGwfPz6sx8iA?e=ggs3wI"><img src="https://img.shields.io/badge/Resume-6CC644?style=for-the-badge&logoColor=white" alt="Stephen Wong Resume"/></a>
+<a href="https://www.linkedin.com/in/wongs/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=white" alt="Stephen Wong LinkedIn"/></a>
 <a href="mailto:contact@wongstephenk.com"><img src="https://img.shields.io/badge/email-blue?style=for-the-badge&logoColor=white" alt="Email"/></a>
 
 Hey there, I'm Stephen, a software engineer with a knack for building cool stuff. From design to web apps, I'm all about finding clever solutions to tough problems.
