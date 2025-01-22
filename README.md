@@ -18,7 +18,4 @@ When I'm not coding, I hang out with my trusty corgi, Num Num. He's my go-to whe
     <img src="assets/numnum.webp" width="150px" />
 </div>
 
-<p>I can't put down my computer because I enjoy learing a little bit of something every day.</p>
-
-
 <body>
